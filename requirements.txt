@@ -1,6 +1,7 @@
 streamlit
 langchain-community
 langchain-google-genai
+langgraph
 langchain-text-splitters
 chromadb
 pypdf
